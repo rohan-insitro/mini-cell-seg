@@ -13,3 +13,9 @@ Data is a list of the form `[(x,y), (x,y),..., (x,y)]` where each `x` is normali
 
 - `np_cell_data.pkl`: dataset where each sample (image and mask) are float numpy arrays. 
 - `jax_cell_data.pkl`: same as the numpy version except the arrays are jaxlib arrays. Reduces size by 10 mb!
+
+
+## Visual 
+
+![image](https://user-images.githubusercontent.com/108300076/176973696-4ebad3cd-8a9f-4daf-9775-7161c410e7aa.png)
+
